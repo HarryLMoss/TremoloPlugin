@@ -69,11 +69,11 @@ juce_add_plugin(
   VERSION
     0.0.0 # 0 forces AU hosts to always refresh
   COMPANY_NAME
-    "WolfSound"
+    "Sangeeta Yoga"
   PLUGIN_MANUFACTURER_CODE
-    Wfsd
+    Sgya
   PLUGIN_CODE
-    Trcp
+    Tmlo
   FORMATS
     Standalone
     AU
